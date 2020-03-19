@@ -3,12 +3,12 @@ Shine JM, Breakspear M, Bell PT, et al. Human cognition involves the dynamic int
 
 https://www.nature.com/articles/s41593-018-0312-0
 
-[state_space repo](state_space)
+state_space
 
 
 Shine JM, Hearne LJ, Breakspear M, et al. The Low-Dimensional Neural Architecture of Cognitive Complexity Is Related to Activity in Medial Thalamic Nuclei. Neuron. 2019;104(5):849–855.e3. doi:10.1016/j.neuron.2019.09.002
 
 https://www.sciencedirect.com/science/article/abs/pii/S0896627319307755
 
-[lst_statespace repo](lst_statespace)
+lst_statespace
 
